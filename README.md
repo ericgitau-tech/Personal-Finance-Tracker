@@ -15,5 +15,5 @@ A Python-based personal finance tracking application that helps you monitor inco
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ericgitau-tech/Personal-Finance-Tracker.git
    cd finance_tracker
